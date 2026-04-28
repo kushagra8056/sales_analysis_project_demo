@@ -1,2 +1,1 @@
-Hey!
-I am learning git & github.
+Q1 sales data - reviewed by Manager
