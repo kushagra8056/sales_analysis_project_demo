@@ -1,0 +1,6 @@
+Data Cleaning Notes - 2025
+
+1. Removed null values from Q1 sales data
+2. Standardized date format to YYYY-MM-DD
+3. Removed duplicate entries in Q2 data
+4. Fixed negative values in Q3 revenue column
